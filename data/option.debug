@@ -1,0 +1,13 @@
+outBest = .debug
+maxInstance = -1
+maxIter = 100
+batchSize = 4
+adaEps = 0.0001;
+cnnLayerSize = 10
+hiddenSize = 100
+verboseIter = 100
+dropProb = 0.5
+wordEmbFineTune = false
+wordcontext = 2
+
+wordFile = home\wz\glove.27B.100d.txt
